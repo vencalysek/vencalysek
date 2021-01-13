@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Movie database web app, and prepearing to make demo online brooker app for capital market.
-- 🌱 I’m currently improving my React, Redux skills
+- 🔭 I’m currently working on Movie database web app, and preparing to make demo online broker app for capital markets.
+- 🌱 I’m currently improving my overal web dev skills
 - 🤔 I’m looking for junior webdev  position.
 - 📫 How to reach me: https://www.linkedin.com/in/vaclav-lysek-708b74131/ vencalysek@seznam.cz
 
