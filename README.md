@@ -3,7 +3,7 @@
 
 Self-taught programmer - automotive engineer who is trying to change career.
 I started learning to code 2 years ago and really enjoying it. Hopefully I will make it my new career soon.
-My focus is front end development and I’m working with JS, React, VueJS and others libraries.
+My focus is front end development and I’m working with JS, React, VueJS and other libraries.
 
 :small_orange_diamond: 🔭 I’m currently working on MovieDB and Capital markets trader
 
