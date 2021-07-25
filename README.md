@@ -1,15 +1,8 @@
 ## Vaclav Lysek :czech_republic:
-### Front-end web development
+### Frontend web development
 
-Self-taught programmer - automotive engineer who is trying to change career.
-I started learning to code 2 years ago and really enjoying it. Hopefully I will make it my new career soon.
+Self-taught programmer - ex automotive engineer who changed his career, curently working as Frontend Dev for CGI Inc.
 My focus is front end development and I’m working with JS, React, VueJS and other libraries.
-
-:small_orange_diamond: 🔭 I’m currently working on [MovieCenter](https://vly-movie-center.web.app/) and Capital markets trader
-
-:small_orange_diamond: 🌱 I’m currently learning overal web dev skills
-
-:small_orange_diamond: 📫 How to reach me: lysek.vaclav@email.cz 
 
 ### Skills
 JS :small_orange_diamond: REACT :small_orange_diamond: VUE JS :small_orange_diamond: REDUX :small_orange_diamond: HTML :small_orange_diamond: CSS
