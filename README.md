@@ -1,7 +1,7 @@
 ## Vaclav Lysek :czech_republic:
 ### Frontend web development
 
-Self-taught programmer - ex automotive engineer who changed his career, curently working as Frontend Dev for CGI Inc.
+Self-taught programmer - ex automotive engineer, curently working as Frontend Dev for CGI Inc.
 My focus is front end development and I’m working with JS, React, VueJS and other libraries.
 
 ### Skills
